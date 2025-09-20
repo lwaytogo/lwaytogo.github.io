@@ -7,10 +7,18 @@
 <p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 11pt; color: rgb(73, 73, 73); text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; color: rgb(63, 63, 63);">近年来，我一直致力于写出最简洁、最能清晰体现思路的算法题解法并分享出去，希望帮更多人意识到算法在工作和求职中的重要性。至今，我已在力扣（LeetCode）发布算法解题方法近 200 个，并有幸获得不少同行的赞同和分享。同时，我还在知网发表了多篇算法论文。</span></p> 
 <p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 11pt; color: rgb(73, 73, 73); text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; color: rgb(63, 63, 63);"></span></p> 
 <p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 11pt; color: rgb(73, 73, 73); text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-size: 16px; color: rgb(63, 63, 63);">&nbsp; &nbsp; &nbsp; &nbsp;</span></p> 
-<p style="text-align: justify; text-indent: 0em; line-height: 1.75em;"><img src="http://s0.lgstatic.com/i/image2/M01/9D/51/CgotOV2td9qAFNJZAAVW-BReZVA180.png"></p> 
+
+
+![](./images/CgotOV2td9qAFNJZAAVW-BReZVA180.png)
+
+
 <p style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.7; font-size: 11pt; color: rgb(73, 73, 73);"><br></p> 
 <p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 11pt; color: rgb(73, 73, 73); text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="color: rgb(63, 63, 63); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; text-indent: 0em;">非常开心拉勾和力扣能强强联手策划这算法课。我作为技术面试官，有大量技术人才选拔经验，参与了面试考题、评分标准设计等各个重要环节。过程中我发现，很多人并没认识到，不论在国内还是国外，算法和数据结构早已经成为技术面试的必考项，尤其是重视技术品牌的互联网一线大厂，算法是否合格直接决定了候选人能否获得 Offer。常常有其他项表现不错的程序员，由于算法不过关而错失心仪 Offer。</span></p> 
-<p style="text-align: justify; text-indent: 0em; line-height: 1.75em;"><img src="http://s0.lgstatic.com/i/image2/M01/9D/32/CgoB5l2td9qAf2VuAABerHKNze4736.png"></p> 
+
+
+![](./images/CgoB5l2td9qAf2VuAABerHKNze4736.png)
+
+
 <p style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.7; font-size: 11pt; color: rgb(73, 73, 73);"><br></p> 
 <p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 11pt; color: rgb(73, 73, 73); text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; color: rgb(63, 63, 63);">自从在硅谷开始寻找工作，我就意识到算法的重要性。当时身边朋友说力扣（LeetCode）是算法能力提升的首选平台，我便将力扣（LeetCode）上的题目按公司、题目热门程度、以及难度进行排序后，制定学习计划，坚持做完了所有题目，如愿拿到了大厂 Offer。入职后，更扎实的算法功底，也让我的工作能力和效率有了质的提升。可以说算法让我脱胎换骨了。</span></p> 
 <p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 11pt; color: rgb(73, 73, 73); text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; color: rgb(63, 63, 63);">&nbsp;</span></p> 
@@ -23,7 +31,11 @@
 <p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 11pt; color: rgb(73, 73, 73); text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; color: rgb(63, 63, 63);">&nbsp;</span></p> 
 <p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 11pt; color: rgb(73, 73, 73); text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; color: rgb(63, 63, 63);">拉勾对 1000 多名技术求职者进行调研，结果如下图，90% 以上的人表示面试时都被考察过数据结构与算法。这门大学计算机的基础学科，在职场里再也不是 60 分万岁。平时疏于学习和思考，只能在公司做最底层的 CRUD（开发人员），恶性循环，难有出头之日。&nbsp; &nbsp; &nbsp;&nbsp;</span></p> 
 <p><br></p> 
-<p style="text-align: justify; text-indent: 0em; line-height: 1.75em;"><img src="http://s0.lgstatic.com/i/image2/M01/9D/51/CgotOV2td9qAGBDwAABEsYGN5S0631.png"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; color: rgb(63, 63, 63);">&nbsp;</span></p> 
+
+
+![](./images/CgotOV2td9qAGBDwAABEsYGN5S0631.png)
+
+
 <p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 11pt; color: rgb(73, 73, 73); text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; color: rgb(63, 63, 63);">数据结构与算法能力的考核在以 BAT 为代表的国内大厂，乃至硅谷高科技公司的面试里占了相当大的比重。总结起来，考察的原因有四：</span></p> 
 <ul style=""> 
  <li><p style="text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; color: rgb(63, 63, 63);">算法能力能够准确辨别一个程序员的技术功底是否扎实；</span></p></li> 
@@ -33,7 +45,11 @@
 </ul> 
 <h3></h3> 
 <h6 style="text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-size: 18px; color: rgb(0, 0, 0);">数据结构和算法对工作的影响</span>﻿</h6> 
-<p style="text-align: justify; text-indent: 0em; line-height: 1.75em;"><span style="overflow: hidden; box-shadow: rgb(214, 214, 214) 0px 0px 1px 1px; height: inherit; width: inherit; display: inline-block; vertical-align: text-bottom; max-width: calc(100% - 4px); margin: 0px 2px; padding: 0px; outline: none; box-sizing: border-box; font-family: -apple-system, system-ui, &quot;PingFang SC&quot;, Helvetica, Tahoma, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, sans-serif; white-space: pre-wrap; font-size: 16px; color: rgb(63, 63, 63);"><img src="http://s0.lgstatic.com/i/image2/M01/9D/32/CgoB5l2td9qAWazAAABmDjYtcgw390.png"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;&nbsp;</span><span style="font-family: sans-serif;">&nbsp; &nbsp;&nbsp;</span></span></p> 
+
+
+![](./images/CgoB5l2td9qAWazAAABmDjYtcgw390.png)
+
+
 <p style="text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; color: rgb(63, 63, 63);"><span style="color: rgb(63, 63, 63); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">如果你问，不会数据结构和算法，对工作有没有什么影响吗？我觉得肯定是有的。</span></span></p> 
 <ul style=""> 
  <li><p style="text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; color: rgb(63, 63, 63);">首先，要知道程序员这个群体也是有金字塔结构的。如果连基本的算法和数据结构都不会，你基本上就属于比较底层的程序员。底层就意味着低薪酬。付出同样时长的脑力劳动，你赚得就比别人少。</span></p></li> 
@@ -44,8 +60,16 @@
 <h6 style="text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(63, 63, 63); font-size: 18px;">如何快速提升算法能力，获得大厂青睐</span><span style="color: rgb(63, 63, 63); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; text-indent: 0em;">&nbsp; &nbsp; &nbsp;&nbsp;</span></h6> 
 <p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 11pt; color: rgb(73, 73, 73); text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; color: rgb(63, 63, 63);">结合拉勾 40万 研发相关岗位标准大数据、力扣（LeetCode）海量大厂面试算法题库及我多年算法实战经验，三方合力打磨出了这门算法课，旨在帮你在 300 分钟内快速绘制出数据结构与算法的重点知识体系，并辅以 35 道来自顶级互联网大厂的精选高频面试真题为你深度剖析算法每个考察点与解题思路。&nbsp;</span></p> 
 <p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 11pt; color: rgb(73, 73, 73); text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-size: 16px; color: rgb(63, 63, 63);">&nbsp; &nbsp; &nbsp; &nbsp;</span></p> 
-<p style="text-align: justify; text-indent: 0em; line-height: 1.75em;"><img src="http://s0.lgstatic.com/i/image2/M01/9D/51/CgotOV2td9qAQ1iLAACgvHlWNWo866.png"><span style="font-size: 11pt; color: rgb(63, 63, 63);">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</span></p> 
-<p style="text-align: justify; text-indent: 0em; line-height: 1.75em;"><img src="http://s0.lgstatic.com/i/image2/M01/9D/32/CgoB5l2td9uASVpjAAJeTS0Bj5g377.png"></p> 
+
+
+![](./images/CgotOV2td9qAQ1iLAACgvHlWNWo866.png)
+
+
+
+
+![](./images/CgoB5l2td9uASVpjAAJeTS0Bj5g377.png)
+
+
 <p style="margin-top: 0pt; margin-bottom: 0pt; font-size: 11pt; color: rgb(73, 73, 73); text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; text-indent: 2em; font-size: 16px; color: rgb(63, 63, 63);">课程由 4 部分组成：</span></p> 
 <ul style=""> 
  <li><p style="text-indent: 0em; text-align: justify; line-height: 1.75em;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; color: rgb(63, 63, 63);">第一部分是实用的数据结构，包括数组、字符串、链表、队列、树、栈、队列、图、前缀树、分段树和树状数组等；</span></p></li> 
@@ -145,4 +169,3 @@
 
  ###### &nbsp;&nbsp;&nbsp; 编辑回复：
 > &nbsp;&nbsp;&nbsp; 关注拉勾教育公众号 咨询小助手获取
-
